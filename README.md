@@ -1,4 +1,3 @@
-## Hello World! </h2>
 
 <a href="https://twitter.com/ritvyk">
   <img align="left" alt="Ritvik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
